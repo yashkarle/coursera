@@ -2,3 +2,6 @@
 2. Strings: https://gist.github.com/yashkarle/d1cd65d954ee7cbec4858c958af729f1
 3. Tuples: https://gist.github.com/yashkarle/01e2ba15710ca2113c5dca00532a338e
 4. Lists: https://gist.github.com/534ed9fc16cb6001f68873e5f17b0d58
+5. Dictionaries: https://gist.github.com/534ed9fc16cb6001f68873e5f17b0d58
+6. Sets: https://gist.github.com/yashkarle/6175410f7c3a0d3f686d503c5cb6ef9a
+
