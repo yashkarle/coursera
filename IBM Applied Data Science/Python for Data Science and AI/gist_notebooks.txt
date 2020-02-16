@@ -4,4 +4,6 @@
 4. Lists: https://gist.github.com/534ed9fc16cb6001f68873e5f17b0d58
 5. Dictionaries: https://gist.github.com/534ed9fc16cb6001f68873e5f17b0d58
 6. Sets: https://gist.github.com/yashkarle/6175410f7c3a0d3f686d503c5cb6ef9a
+7. Conditions: https://gist.github.com/6d63c9917ed425acf26bee56cedce92e
+8. Loops: https://gist.github.com/096babe57c886466ace856799b829499
 
