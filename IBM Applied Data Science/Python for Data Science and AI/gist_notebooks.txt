@@ -10,4 +10,4 @@
 10. Classes: https://gist.github.com/9dbc60ab9cf51aaa4f582df6740279df
 11. ReadFile: https://gist.github.com/46326dcc0524fbcc59df1d38227205c2
 12. WriteFile: https://gist.github.com/2a761b3e7230fa17f9f2b21036a1c5e8
-
+13. Pandas: https://gist.github.com/yashkarle/656bf3a8a14d7cb6a0267ac31396a53e
