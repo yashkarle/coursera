@@ -11,3 +11,8 @@
 11. ReadFile: https://gist.github.com/46326dcc0524fbcc59df1d38227205c2
 12. WriteFile: https://gist.github.com/2a761b3e7230fa17f9f2b21036a1c5e8
 13. Pandas: https://gist.github.com/yashkarle/656bf3a8a14d7cb6a0267ac31396a53e
+14. Numpy1D: https://gist.github.com/ca61f781c3a522cd89f427db8e06d230
+15: Numpy2D: https://gist.github.com/3fcb833524acbc109a0a8ca6ad45ddc6
+16: API: https://gist.github.com/2b40f20179bab9b0d8d87f0b06696476
+17: API2: https://gist.github.com/577ce1f81f3396e80338e437ac22ae71
+
