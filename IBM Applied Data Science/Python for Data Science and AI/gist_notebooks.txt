@@ -15,4 +15,5 @@
 15: Numpy2D: https://gist.github.com/3fcb833524acbc109a0a8ca6ad45ddc6
 16: API: https://gist.github.com/2b40f20179bab9b0d8d87f0b06696476
 17: API2: https://gist.github.com/577ce1f81f3396e80338e437ac22ae71
+18: Assignment: https://gist.github.com/yashkarle/49681da18f88b5f2590078b3a8d83274
 
