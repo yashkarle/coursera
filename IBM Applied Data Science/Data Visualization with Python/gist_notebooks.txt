@@ -1,2 +1,4 @@
 1) Intro to Matplotlib and Line Plots: https://gist.github.com/5d5bb0025e45454832febea0a2e71c12
+2) Basic Visualization Tools: https://gist.github.com/247e03f32a58003c824e3cf0b6baa9e1
+
 
