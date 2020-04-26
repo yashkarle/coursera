@@ -1,4 +1,4 @@
 1) Intro to Matplotlib and Line Plots: https://gist.github.com/5d5bb0025e45454832febea0a2e71c12
-2) Basic Visualization Tools: https://gist.github.com/247e03f32a58003c824e3cf0b6baa9e1
-
+2) Area Plots, Histograms, Bar Charts: https://gist.github.com/d65ec88e0cba13de6adec7846f11e894
+3) Pie Charts, Box Plots, Scatter Plots: https://gist.github.com/5aaa7567624aa72f4064b6897e7ef68d
 
