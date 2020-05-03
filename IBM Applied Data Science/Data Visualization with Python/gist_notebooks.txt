@@ -1,4 +1,6 @@
 1) Intro to Matplotlib and Line Plots: https://gist.github.com/5d5bb0025e45454832febea0a2e71c12
 2) Area Plots, Histograms, Bar Charts: https://gist.github.com/d65ec88e0cba13de6adec7846f11e894
 3) Pie Charts, Box Plots, Scatter Plots: https://gist.github.com/5aaa7567624aa72f4064b6897e7ef68d
+4) Waffle Charts, Word Cloud, Seaborn: https://gist.github.com/c0316a92712fa53e4fe9294f42a47421
+5) Folium, Geospatial Plots, Choropleth Maps: https://gist.github.com/02c60a901129c3462172f431c1a2e77d
 
