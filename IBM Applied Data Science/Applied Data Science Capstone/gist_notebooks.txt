@@ -1,0 +1,4 @@
+1) Foursquare API Intro: https://gist.github.com/01eb14ce57b9d4aa262196303f461c43
+2) Clustering: https://gist.github.com/4d04062927fe81d3c1deda92abd1c21c
+3) Neighborhood NY: https://gist.github.com/c7be7e05e556573ccbe2407fe67ba3e5
+
