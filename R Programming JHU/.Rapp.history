@@ -1,0 +1,45 @@
+1+2
+q()
+1+3
+quit()
+library(wordcloud)
+install.packages("wordcloud")
+exit
+exit()
+quit()
+library.install("wordcloud")
+library.packages("wordcloud")
+install.packages("wordcloud")
+library(wordcloud)
+library(tm)
+install.packages("tm")
+library(tm)
+wordcloud("May our children and our children'schildren to a thousand generations, continue to enjoythe benefits conferred upon us by a united country,and have cause yet to rejoice under those gloriousinstitutions bequeathed us by Washington and hiscompeers.",colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+wordcloud("May our children and our children's children to a thousand generations, continue to enjoy the benefits conferred upon us by a united country, and have cause yet to rejoice under those glorious institutions bequeathed us by Washington and his compeers.", colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+quit()
+getwd()
+dir()
+getwd()
+dir()
+myFunction <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+ls()
+myFunction(2)
+myFunction()
+myFunction()
+source("myFunction.R")
+ls()
+ls()
+source("myFunction.R")
+ls()
+second(5)
+second(5)
+source("myFunction.R")
+ls()
+second
+second(5)
+second(3)
+second(1000)
+second(4:10)
